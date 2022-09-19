@@ -3,12 +3,22 @@ entries:
   pineapple:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-20T00:49:09.96303+03:00"
+    created: "2022-09-20T01:05:08.82608+03:00"
     description: A Helm chart for Kubernetes
-    digest: 2d7fcbae36b3fdbeba6ee1203a2852f2d63a98272dabea6191061a84213219d0
+    digest: c67f3a0daccb556a211187b4c2ce877a6bbf1be8fbd73318168aae26272e5e3a
+    name: pineapple
+    type: application
+    urls:
+    - pineapple-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-20T01:05:08.825391+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 4e8598818c7e1a52c93ab94fab9d90838befb0acecee41111b99bc21ab74c866
     name: pineapple
     type: application
     urls:
     - pineapple-0.1.0.tgz
     version: 0.1.0
-generated: "2022-09-20T00:49:09.962385+03:00"
+generated: "2022-09-20T01:05:08.823002+03:00"
